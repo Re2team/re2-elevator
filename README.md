@@ -2,7 +2,7 @@
 Teleport to other floors of Building 
 
 # Sample
-> Menu
+
 ![MENU](https://cdn.discordapp.com/attachments/910613937555406868/981584394244456520/elev_sample.jpg)
 
 
